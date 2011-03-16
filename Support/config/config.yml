@@ -1,6 +1,3 @@
 --- 
-mygengo: 
-  private_key: 
-  api_key: 
-default_locale_file: config/locales/en.yml
-default_locale: en
+default_locale_file: config/locales/de.yml
+default_locale: de
