@@ -18,7 +18,7 @@ Read more about Rails' i18n here: http://guides.rubyonrails.org/i18n.html
 
 This bundle requires the `ya2yaml` gem.
 
-	sudo gem install ya2yaml
+    gem install ya2yaml
 	
 It should work with ruby 1.8.7 or 1.9.
 
